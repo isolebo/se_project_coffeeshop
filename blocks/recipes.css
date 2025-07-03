@@ -26,7 +26,8 @@
 }
 
 .recipes__videos {
-  margin-bottom: 0;
+  margin: 0;
+  padding: 0;
   display: flex;
   justify-content: center;
   gap: 40px;

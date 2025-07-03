@@ -13,12 +13,11 @@
   max-width: 729px;
   font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
-  font-weight: normal;
   font-size: 60px;
   line-height: 72px;
   letter-spacing: -0.6px;
 }
-.header__span_accent {
+.header__span-accent {
   display: block;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
